@@ -44,17 +44,17 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     </td>
     <td>
         <ul>
-            <li>[Week 1 Slides](https://docs.google.com/presentation/d/1soYMSL6mR1kiBB-K7oUxyIsPe1Axswo413Tn3qlXsUg/edit#slide=id.ge2ffea06c_0_0)</li>
+            <li><a href="https://docs.google.com/presentation/d/1soYMSL6mR1kiBB-K7oUxyIsPe1Axswo413Tn3qlXsUg/edit#slide=id.ge2ffea06c_0_0">Week 1 Slides</a></li>
         </ul>
     </td>
-    <td> [Week 1](https://docs.google.com/document/d/1VuUZ8kIc1SFBtPEpoiG-neMffNnYY1w8FboenWvwFGk/edit)</td>
+    <td> a href="https://docs.google.com/document/d/1VuUZ8kIc1SFBtPEpoiG-neMffNnYY1w8FboenWvwFGk/edit>Week 1</a></td>
     </td>
     <td></td>
 </tr>
 <tr>
     <td> 2 </td>
     <td> Oct. 27 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>Lists </li>
@@ -64,7 +64,7 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     </td>
     <td>
         <ul>
-            <li>[Week 2]()</li>
+            <li>Week 2</li>
         </ul>
     </td>
     <td> [Week 2]() </td>
@@ -77,14 +77,14 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 3 </td>
     <td> Oct. 29 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>Recursion</li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>DU - 1:1 (X2)</li>
@@ -94,14 +94,14 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 4 </td>
     <td> Nov. 5 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>Simple turtle shapes</li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>DU - 1:1 (X2)</li>
@@ -111,14 +111,14 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 5 </td>
     <td> Nov. 12 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>Complex turtle shapes(using loops and recursions)</li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>DU - 1 h - empathy </li>
@@ -128,7 +128,7 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 6 </td>
     <td> Nov. 19 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Lists </li>
@@ -136,8 +136,8 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
             <li> Class </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>present the non-dual transformation of conflicts model</li>
@@ -147,14 +147,14 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 7 </td>
     <td> Nov. 26 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> More Classes </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>bringing examples they found for the non-dual transformation of conflicts model (related to the news)</li>
@@ -164,14 +164,14 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 8 </td>
     <td> Dec. 3 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Inheritance </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>bringing examples they found for the non-dual transformation of conflicts model (related to the news)</li>
@@ -181,14 +181,14 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 9 </td>
     <td> Dec. 10 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Collisions </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>DU - 1 h - means of communication </li>
@@ -198,27 +198,27 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 10 </td>
     <td> Jan. 7 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Collisions </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td></td>
 </tr>
 <tr>
     <td> 11 </td>
     <td> Jan. 14 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Personal Project </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>DU - Home picture</li>
@@ -228,14 +228,14 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 12 </td>
     <td> Jan. 21 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Personal Project </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>DU - Home picture</li>
@@ -245,27 +245,27 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 13 </td>
     <td> Jan. 28 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Personal Project </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td></td>
 </tr>
 <tr>
     <td> 14 </td>
     <td> Feb. 4 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Personal Project </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>DU - 1 h - identity </li>
@@ -275,14 +275,14 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 15 </td>
     <td> Feb. 11 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Group Project </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>1 : 1 talks - link to identity</li>
@@ -292,14 +292,14 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 16 </td>
     <td> Feb. 18 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Group Project </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>1 : 1 talks - link to identity </li>
@@ -309,14 +309,14 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 17 </td>
     <td> Feb. 25 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Group Project </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>DU - prep for me myself and I</li>
@@ -326,14 +326,14 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 18 </td>
     <td> Mar. 4 </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Group Project </li>
         </ul>
     </td>
-    <td> **TBD** </td>
-    <td> **TBD** </td>
+    <td> <b>TBD</b> </td>
+    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>DU - prep for me myself and I</li>
