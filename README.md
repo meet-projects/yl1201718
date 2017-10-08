@@ -47,7 +47,7 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
             <li><a href="https://docs.google.com/presentation/d/1soYMSL6mR1kiBB-K7oUxyIsPe1Axswo413Tn3qlXsUg/edit#slide=id.ge2ffea06c_0_0">Week 1 Slides</a></li>
         </ul>
     </td>
-    <td> a href="https://docs.google.com/document/d/1VuUZ8kIc1SFBtPEpoiG-neMffNnYY1w8FboenWvwFGk/edit>Week 1</a></td>
+    <td> <a href="https://docs.google.com/document/d/1VuUZ8kIc1SFBtPEpoiG-neMffNnYY1w8FboenWvwFGk">Week 1</a></td>
     </td>
     <td></td>
 </tr>
@@ -64,10 +64,10 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     </td>
     <td>
         <ul>
-            <li>Week 2</li>
+            <li><a href="https://docs.google.com/presentation/d/1DomZW6nUT1E_clMF6RuUvUXVw6odGGzj_UWjvJ1HGwo">Week 2</li>
         </ul>
     </td>
-    <td> [Week 2]() </td>
+    <td> Week 2 </td>
     <td>
         <ul>
             <li>DU - wise speech (kind hearted, truthful, helpful and timely). </li>
