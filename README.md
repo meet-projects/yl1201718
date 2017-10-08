@@ -83,8 +83,8 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
             <li>Recursion</li>
         </ul>
     </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
+ <td> <a href="https://drive.google.com/open?id=1ajcyff4zwi6R1sSrZ-IyEfVWITdhU9j8-9C9hgJ7n7k">Week 3</a> </td>
+    <td> <a href="https://drive.google.com/open?id=1aPp01PZaIcAmDN1fh6SeqvetcveTv8F3xWS_MA2ERnw">Week 3</a> </td>
     <td>
         <ul>
             <li>DU - 1:1 (X2)</li>
