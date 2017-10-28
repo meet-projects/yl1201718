@@ -21,20 +21,18 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 
 ## Schedule 
 ### First Semester 
-<table style="text-align:center;">
+<table >
 <tr>
-    <td>Week </td>
-    <td> Dates </td>
-    <td> Warm-Up </td>
-    <td> Topics </td>
-    <td> Resources </td>
-    <td> Repo </td>
-    <td> DU </td></td>
+    <td style="width: 10%;">Week </td>
+    <td style="width: 10%;"> Dates </td>
+    <td style="width: 35%;"> Topics </td>
+    <td style="width: 10%;"> Resources </td>
+    <td style="width: 10%;"> Repo </td>
+    <td style="width: 25%;"> DU </td>
 </tr>
 <tr>
     <td> 1 </td>
     <td> Oct. 15 </td>
-    <td> None </td>
     <td>
         <ul>
             <li> Welcome to Yearlong </li>
@@ -43,9 +41,7 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
         </ul>
     </td>
     <td>
-        <ul>
-            <li><a target="_blank" href="https://docs.google.com/presentation/d/1soYMSL6mR1kiBB-K7oUxyIsPe1Axswo413Tn3qlXsUg/edit#slide=id.ge2ffea06c_0_0">Week 1 Slides</a></li>
-        </ul>
+        <a target="_blank" href="https://docs.google.com/presentation/d/1soYMSL6mR1kiBB-K7oUxyIsPe1Axswo413Tn3qlXsUg/edit#slide=id.ge2ffea06c_0_0">Week 1</a>
     </td>
     <td> <a target="_blank" href="https://docs.google.com/document/d/1VuUZ8kIc1SFBtPEpoiG-neMffNnYY1w8FboenWvwFGk">Week 1</a></td>
     </td>
@@ -53,8 +49,7 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 </tr>
 <tr>
     <td> 2 </td>
-    <td> Oct. 27 </td>
-    <td> <b>TBD</b> </td>
+    <td> Oct. 22 </td>
     <td>
         <ul>
             <li>Lists </li>
@@ -63,55 +58,44 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
         </ul>
     </td>
     <td>
-        <ul>
-            <li><a target="_blank" href="https://docs.google.com/presentation/d/1DomZW6nUT1E_clMF6RuUvUXVw6odGGzj_UWjvJ1HGwo">Week 2</a></li>
-        </ul>
+        <a target="_blank" href="https://docs.google.com/presentation/d/1DomZW6nUT1E_clMF6RuUvUXVw6odGGzj_UWjvJ1HGwo">Week 2</a>
     </td>
     <td> <a target="_blank" href="https://docs.google.com/document/d/1HYV90LshD4oafhQ5cVmP7h_0l8hMphDgpNSmC-W9WUM/edit">Week 2 </a></td>
     <td>
-        <ul>
-            <li>DU - wise speech (kind hearted, truthful, helpful and timely). </li>
-        </ul>
+        DU - wise speech (kind hearted, truthful, helpful and timely).
     </td>
 </tr>
 <tr>
     <td> 3 </td>
     <td> Oct. 29 </td>
-    <td> <b>TBD</b> </td>
-    <td>
-        <ul>
-            <li>Recursion</li>
-        </ul>
-    </td>
- <td> <a href="https://drive.google.com/open?id=1ajcyff4zwi6R1sSrZ-IyEfVWITdhU9j8-9C9hgJ7n7k">Week 3</a> </td>
-    <td> <a href="https://drive.google.com/open?id=1aPp01PZaIcAmDN1fh6SeqvetcveTv8F3xWS_MA2ERnw">Week 3</a> </td>
-    <td>
-        <ul>
-            <li>DU - 1:1 (X2)</li>
-        </ul>
-    </td>
-</tr>
-<tr>
-    <td> 4 </td>
-    <td> Nov. 5 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>Simple turtle shapes</li>
         </ul>
     </td>
+ <td> <a href="https://docs.google.com/presentation/d/1baejebQatthQThIbzY2kiZmfyrJeEUIkE-JEW_AlRSU/edit?usp=sharing">Week 3</a> </td>
+    <td> <a href="https://docs.google.com/document/d/1rkR32YjRQOee4krdv91qUOAJhd-2m01khrWM6iEE-8s/edit?usp=sharing">Week 3</a> </td>
+    <td>
+        DU - 1:1 (X2)
+    </td>
+</tr>
+<tr>
+    <td> 4 </td>
+    <td> Nov. 5 </td>  
+    <td>
+        <ul>
+            <li>Github setup</li>
+        </ul>
+    </td>
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>DU - 1:1 (X2)</li>
-        </ul>
+        DU - 1:1 (X2)
     </td>
 </tr>
 <tr>
     <td> 5 </td>
     <td> Nov. 12 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li>Complex turtle shapes(using loops and recursions)</li>
@@ -120,15 +104,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>DU - 1 h - empathy </li>
-        </ul>
+        DU - 1 h - empathy
     </td>
 </tr>
 <tr>
     <td> 6 </td>
     <td> Nov. 19 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Lists </li>
@@ -139,15 +120,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>present the non-dual transformation of conflicts model</li>
-        </ul>
+        present the non-dual transformation of conflicts model
     </td>
 </tr>
 <tr>
     <td> 7 </td>
     <td> Nov. 26 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> More Classes </li>
@@ -156,15 +134,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>bringing examples they found for the non-dual transformation of conflicts model (related to the news)</li>
-        </ul>
+        bringing examples they found for the non-dual transformation of conflicts model (related to the news)
     </td>
 </tr>
 <tr>
     <td> 8 </td>
     <td> Dec. 3 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Inheritance </li>
@@ -173,15 +148,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>bringing examples they found for the non-dual transformation of conflicts model (related to the news)</li>
-        </ul>
+        bringing examples they found for the non-dual transformation of conflicts model (related to the news)
     </td>
 </tr>
 <tr>
     <td> 9 </td>
     <td> Dec. 10 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Collisions </li>
@@ -190,15 +162,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>DU - 1 h - means of communication </li>
-        </ul>
+        DU - 1 h - means of communication
     </td>
 </tr>
 <tr>
     <td> 10 </td>
     <td> Jan. 7 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Collisions </li>
@@ -211,7 +180,6 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 11 </td>
     <td> Jan. 14 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Personal Project </li>
@@ -220,15 +188,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>DU - Home picture</li>
-        </ul>
+        DU - Home picture
     </td>
 </tr>
 <tr>
     <td> 12 </td>
     <td> Jan. 21 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Personal Project </li>
@@ -237,15 +202,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>DU - Home picture</li>
-        </ul>
+        DU - Home picture
     </td>
 </tr>
 <tr>
     <td> 13 </td>
     <td> Jan. 28 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Personal Project </li>
@@ -258,7 +220,6 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 14 </td>
     <td> Feb. 4 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Personal Project </li>
@@ -267,15 +228,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>DU - 1 h - identity </li>
-        </ul>
+        DU - 1 h - identity
     </td>
 </tr>
 <tr>
     <td> 15 </td>
     <td> Feb. 11 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Group Project </li>
@@ -284,15 +242,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>1 : 1 talks - link to identity</li>
-        </ul>
+        1 : 1 talks - link to identity
     </td>
 </tr>
 <tr>
     <td> 16 </td>
     <td> Feb. 18 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Group Project </li>
@@ -301,15 +256,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>1 : 1 talks - link to identity </li>
-        </ul>
+        1 : 1 talks - link to identity 
     </td>
 </tr>
 <tr>
     <td> 17 </td>
     <td> Feb. 25 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Group Project </li>
@@ -318,15 +270,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>DU - prep for me myself and I</li>
-        </ul>
+        DU - prep for me myself and I
     </td>
 </tr>
 <tr>
     <td> 18 </td>
     <td> Mar. 4 </td>
-    <td> <b>TBD</b> </td>
     <td>
         <ul>
             <li> Group Project </li>
@@ -335,9 +284,7 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> <b>TBD</b> </td>
     <td> <b>TBD</b> </td>
     <td>
-        <ul>
-            <li>DU - prep for me myself and I</li>
-        </ul>
+        DU - prep for me myself and I
     </td>
 </tr>
 <tr>
@@ -381,6 +328,8 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 
 ## Extra CS Practice
 * [HackerRank](http://www.hackerrank.com)
+* [Recursion](https://drive.google.com/open?id=1ajcyff4zwi6R1sSrZ-IyEfVWITdhU9j8-9C9hgJ7n7k)
+* [Recursion and Turtle](https://drive.google.com/open?id=1aPp01PZaIcAmDN1fh6SeqvetcveTv8F3xWS_MA2ERnw)
 
 ## Getting Help
 * #python_corner Slack Channel
