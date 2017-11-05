@@ -84,11 +84,11 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> Nov. 5 </td>  
     <td>
         <ul>
-            <li>Github setup</li>
+            <li>OOP</li>
         </ul>
     </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
+    <td> <a href="https://docs.google.com/presentation/d/1lh9jaktULgUyy1yiJ0Tg5W7iKVNyAyCbFRCasyUibQA/edit?usp=sharing">Week 4</a> </td>
+    <td> <a href="https://docs.google.com/document/d/1kWsv1c33vjEybFQM5WGeCXJxNCcj5otVh_tjr2cQjJk/edit?usp=sharing">Week 4</b> </td>
     <td>
         DU - 1:1 (X2)
     </td>
