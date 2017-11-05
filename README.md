@@ -16,7 +16,7 @@ This is the syllabus for the yearlong.  Each row represents a week of the progra
 * **TBD:** **T**o **B**e **D**ecided
 
 
-## Flow of submition
+## Flow of submission
 Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-projects/yl1201718)** then choose the lab you want to solve **(under repo column in Schedule table)**, you will be direceted to **meet's github lab page**, to solve the lab you have to **copy(fork)** it to your account, now you need to **downlond(clone)** it from your github account to your computer, **SOLVE THE LAB**, lastly when you are done, you need to **upload(add, commit, pull and push)** your solution to your github account.
 
 ## Schedule 
