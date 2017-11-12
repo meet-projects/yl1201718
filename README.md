@@ -101,8 +101,8 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
             <li>Complex turtle shapes(using loops and recursions)</li>
         </ul>
     </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
+    <td> None </td>
+    <td> None </td>
     <td>
         DU - 1 h - empathy
     </td>
