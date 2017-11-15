@@ -330,6 +330,8 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 * [HackerRank](http://www.hackerrank.com)
 * [Recursion](https://drive.google.com/open?id=1ajcyff4zwi6R1sSrZ-IyEfVWITdhU9j8-9C9hgJ7n7k)
 * [Recursion and Turtle](https://drive.google.com/open?id=1aPp01PZaIcAmDN1fh6SeqvetcveTv8F3xWS_MA2ERnw)
+* [Github](https://drive.google.com/open?id=1RBZiCNsVIczgWGvxaJCZxdrCy69PivedIK95oMqdmyc)
+* [All materials summary](https://docs.google.com/presentation/d/1xd5DGFCT4sUFw_9nc18oTzkKuMdUP3iIZbsIqkgDCiA/edit?usp=sharing)
 
 ## Getting Help
 * #python_corner Slack Channel
