@@ -112,13 +112,11 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> Nov. 19 </td>
     <td>
         <ul>
-            <li> Lists </li>
-            <li> Dictionaries </li>
-            <li> Class </li>
+            <li> Inheritance </li>
         </ul>
     </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
+    <td> <a href="https://docs.google.com/presentation/d/1rsbXDU6zUpNBcp2LUu3Xa5vywrl-U4hCHaQjEj8jYss/edit?usp=sharing">Week 6</a> </td>
+    <td> <a href="https://docs.google.com/document/d/1ue_LfyuHEmse2K9c12KGuGW0tbo4donm0vOrNlkgVuM/edit?usp=sharing">Week 6</a> </td>
     <td>
         present the non-dual transformation of conflicts model
     </td>
@@ -128,11 +126,11 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> Nov. 26 </td>
     <td>
         <ul>
-            <li> More Classes </li>
+            <li> More Inheritance </li>
         </ul>
     </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
+    <td> None </td>
+    <td> None </td>
     <td>
         bringing examples they found for the non-dual transformation of conflicts model (related to the news)
     </td>
@@ -142,7 +140,9 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> Dec. 3 </td>
     <td>
         <ul>
-            <li> Inheritance </li>
+            <li>Turtle's mainloop vs the While True</li>
+            <li> Lists vs Dictionaries vs Classes </li>
+            <li> Random </li>
         </ul>
     </td>
     <td> <b>TBD</b> </td>
@@ -180,13 +180,13 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 11 </td>
     <td> Jan. 14 </td>
-    <td>
+    <td rowspan="4">
         <ul>
             <li> Personal Project </li>
         </ul>
     </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
+    <td rowspan="4"> <b>TBD</b> </td>
+    <td rowspan="4"> <b>TBD</b> </td>
     <td>
         DU - Home picture
     </td>
@@ -195,38 +195,17 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> 12 </td>
     <td> Jan. 21 </td>
     <td>
-        <ul>
-            <li> Personal Project </li>
-        </ul>
-    </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
-    <td>
         DU - Home picture
     </td>
 </tr>
 <tr>
     <td> 13 </td>
     <td> Jan. 28 </td>
-    <td>
-        <ul>
-            <li> Personal Project </li>
-        </ul>
-    </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
     <td></td>
 </tr>
 <tr>
     <td> 14 </td>
     <td> Feb. 4 </td>
-    <td>
-        <ul>
-            <li> Personal Project </li>
-        </ul>
-    </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
     <td>
         DU - 1 h - identity
     </td>
@@ -234,13 +213,13 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 15 </td>
     <td> Feb. 11 </td>
-    <td>
+    <td rowspan="4">
         <ul>
             <li> Group Project </li>
         </ul>
     </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
+    <td rowspan="4"> <b>TBD</b> </td>
+    <td rowspan="4"> <b>TBD</b> </td>
     <td>
         1 : 1 talks - link to identity
     </td>
@@ -249,13 +228,6 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> 16 </td>
     <td> Feb. 18 </td>
     <td>
-        <ul>
-            <li> Group Project </li>
-        </ul>
-    </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
-    <td>
         1 : 1 talks - link to identity 
     </td>
 </tr>
@@ -263,26 +235,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
     <td> 17 </td>
     <td> Feb. 25 </td>
     <td>
-        <ul>
-            <li> Group Project </li>
-        </ul>
-    </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
-    <td>
         DU - prep for me myself and I
     </td>
 </tr>
 <tr>
     <td> 18 </td>
     <td> Mar. 4 </td>
-    <td>
-        <ul>
-            <li> Group Project </li>
-        </ul>
-    </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
     <td>
         DU - prep for me myself and I
     </td>
@@ -295,32 +253,31 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
 <tr>
     <td> 20 </td>
     <td> Mar. 18 </td>
-    <td colspan=5> Entrepreneurship Workshop </td>
+    <td colspan=5 rowspan=5> Entrepreneurship </td>
 </tr>
 <tr>
     <td> 21 </td>
     <td> Mar. 25 </td>
-    <td colspan=5> Entrepreneurship Workshop </td>
 </tr>
 <tr>
     <td> 22 </td>
     <td> Apr. 8 </td>
-    <td colspan=5> Entrepreneurship Workshop </td>
-</tr>
-<tr>
-    <td></td>
-    <td>Apr. 12-13</td>
-    <td colspan=5>MEETConf</td>
 </tr>
 <tr>
     <td> 23 </td>
     <td> Apr. 22 </td>
-    <td colspan=5> Entrepreneurship Workshop </td>
 </tr>
 <tr>
     <td> 24 </td>
     <td> Apr. 29 </td>
-    <td colspan=5> Entrepreneurship Workshop </td>
+</tr>
+<tr>
+    <td colspan=2>May. 3-4</td>
+    <td colspan=5>MEETConf</td>
+</tr>
+<tr>
+    <td colspan=2>Jul. 12 - Aug.13</td>
+    <td colspan=5>SUMMER</td>
 </tr>
 <table>
     
