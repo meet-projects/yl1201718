@@ -142,11 +142,12 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
         <ul>
             <li>Turtle's mainloop vs the While True</li>
             <li> Lists vs Dictionaries vs Classes </li>
-            <li> Random </li>
+            <li> Collisions </li>
         </ul>
     </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
+    <td> <a href="https://docs.google.com/presentation/d/14VXhzrkr5j-b3RXSk5zDEzMqfJz1FS5hTrc5zyct5Go/edit?usp=sharing">Week 8</a>
+    <a href="https://docs.google.com/presentation/d/1jbr2onOalBP-gRpK512T_mMw6DC85tXxT4OcLdsosq4/edit?usp=sharing">Week 8 (2)</a></td>
+    <td> <a href="https://docs.google.com/document/d/1h2FEaCFtmExn2BGL_16wnc2KAkUnlueiwiCtyOaL5Hk/edit?usp=sharing">Week 8 (2)</a> </td>
     <td>
         bringing examples they found for the non-dual transformation of conflicts model (related to the news)
     </td>
