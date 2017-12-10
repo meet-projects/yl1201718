@@ -174,8 +174,8 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
             <li> Collisions </li>
         </ul>
     </td>
-    <td> <b>TBD</b> </td>
-    <td> <b>TBD</b> </td>
+    <td> <a href="https://docs.google.com/drawings/d/1XUiyty_JFlAZaWY-a8KiDRJg4J9QY9JUTELjQqCGrPM/edit?usp=sharing">Week 9</a> </td>
+    <td> None </td>
     <td></td>
 </tr>
 <tr>
