@@ -186,8 +186,8 @@ Go to **[http://github.com/meet-projects/yl1201718](https://github.com/meet-proj
             <li> Personal Project </li>
         </ul>
     </td>
-    <td rowspan="4"> <b>TBD</b> </td>
-    <td rowspan="4"> <b>TBD</b> </td>
+    <td rowspan="4"> None </td>
+    <td rowspan="4"> <a href="https://drive.google.com/open?id=1Ckc-gsCBaNL9ZiaP0gOH9lIbu6Vt59uRYgcm1G3ZJEA">Indv. Project</a> </td>
     <td>
         DU - Home picture
     </td>
